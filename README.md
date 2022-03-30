@@ -2,7 +2,7 @@
 
 physics/math @ Cagliari
 
-mostly LaTeX and Markdown, but sometimes C++ and Python
+mostly LaTeX (both in english and in italian) and Markdown, but sometimes C++ and Python
 
 welcome ^^
 
