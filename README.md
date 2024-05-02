@@ -2,8 +2,6 @@
 
 physics/math @ Cagliari
 
-mostly LaTeX (both in english and in italian)
-
 welcome ^^
 
 <!---
